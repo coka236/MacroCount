@@ -54,14 +54,15 @@ export default function HomeScreen() {
   return (
    
       
-      <ThemedView style={styles.stepContainer}>
+        <ThemedView style={styles.stepContainer}>
        
         <ThemedText>
-         
+       
         </ThemedText>
       </ThemedView>
   );
 }
+
 
 
 const styles = StyleSheet.create({
